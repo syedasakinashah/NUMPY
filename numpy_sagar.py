@@ -9,3 +9,4 @@ arr_1d = np.array([1,2.7,3])
 print(arr_1d.dtype)
 arr_1d = np.array([1,True,3])
 print(arr_1d.dtype)
+...
